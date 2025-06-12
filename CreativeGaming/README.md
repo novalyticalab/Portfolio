@@ -28,8 +28,7 @@ The dataset includes:
 - Insights supported targeted marketing recommendations
 
 ## 📷 Visuals
-
-![Feature Importance](./visuals/feature_importance.png)  
+ 
 *Top predictors from the Random Forest model*
 
 ## 📂 Files
