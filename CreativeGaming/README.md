@@ -1,4 +1,4 @@
-# 🎮 Predicting In-Game Purchase Propensity
+# 🎮 Optimizing Player Monetization Through Predictive Modeling
 
 This project predicts the likelihood of a player purchasing a promotional in-game item based on their gameplay, demographics, and social behavior.
 
